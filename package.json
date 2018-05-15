@@ -1,0 +1,15 @@
+{
+  "name": "hyper-seventy",
+  "version": "1.0.0",
+  "description": "Dark theme for hyper.js inspired by the awesome gruvbox theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hyper",
+    "hyper-theme"
+  ],
+  "author": "Daniel",
+  "license": "MIT"
+}
