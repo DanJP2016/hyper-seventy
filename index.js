@@ -65,19 +65,19 @@ exports.decorateConfig = (config) => {
       }
 
       .header_header .header_windowControls .header_maximizeWindowLeft, .header_header .header_windowControls .header_shape {
-        color: rgba(152, 151, 26, 0.5);
-        text-shadow: 0px 0px 5px rgba(235, 279, 178, 0.5), 0px 0px 10px rgba(235, 279, 178, 0.5), 0px 0px 15px rgba(235, 279, 178, 0.5), 0p 0px 20px rgba(152, 151, 26, 0.5), 0px 0px 30px rgba(152, 151, 26, 0.5), 0px 0px 40px rgba(152, 151, 26, 0.5);
+        color: rgba(152, 151, 26, 0.8);
+        text-shadow: 0px 0px 5px rgba(235, 279, 178, 0.8), 0px 0px 10px rgba(235, 279, 178, 0.8), 0px 0px 15px rgba(235, 279, 178, 0.8), 0p 0px 20px rgba(152, 151, 26, 0.8), 0px 0px 30px rgba(152, 151, 26, 0.8), 0px 0px 40px rgba(152, 151, 26, 0.8);
         transition: all 400ms ease-in-out;
       }
       
       .header_header .header_windowControls .header_closeWindowLeft, .header_header .header_windowControls .header_closeWindow {
-        color: rgba(204, 36, 29, 0.7);
+        color: rgba(204, 36, 29, 0.8);
         transition: all 400ms ease-in-out;
       }
       
       .header_header .header_windowHeader .header_hamburgerMenuRight, .header_header .header_windowHeader .header_hamburgerMenuLeft {
-        color: rgba(152, 151, 26, 0.5);
-        text-shadow: 0px 0px 5px rgba(235, 279, 178, 0.5), 0px 0px 10px rgba(235, 279, 178, 0.5), 0px 0px 15px rgba(235, 279, 178, 0.5), 0p 0px 20px rgba(152, 151, 26, 0.5), 0px 0px 30px rgba(152, 151, 26, 0.5), 0px 0px 40px rgba(152, 151, 26, 0.5);
+        color: rgba(152, 151, 26, 0.8);
+        text-shadow: 0px 0px 5px rgba(235, 279, 178, 0.8), 0px 0px 10px rgba(235, 279, 178, 0.8), 0px 0px 15px rgba(235, 279, 178, 0.8), 0p 0px 20px rgba(152, 151, 26, 0.8), 0px 0px 30px rgba(152, 151, 26, 0.8), 0px 0px 40px rgba(152, 151, 26, 0.8);
         transition: all 400ms ease-in-out;
       }
     `
