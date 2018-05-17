@@ -1,7 +1,7 @@
 'use strict';
 
 const foregroundColor = 'rgba(215, 153, 33, 0.5)';
-const backgroundColor = 'rgba(29, 32, 33, 0.5)';
+const backgroundColor = '#0e1111';
 const red = 'rgba(214, 93, 14, 0.5)';
 const green = 'rgba(152, 151, 14, 0.5)';
 const yellow = 'rgba(215, 53, 33, 0.5)';
@@ -48,7 +48,7 @@ exports.decorateConfig = (config) => {
       }
 
       .tab_active {
-        background-color: rgba(215, 53, 33, 0.1);
+        background-color: rgba(215, 53, 33, 0.2);
       }
 
       .tabs_nav .tabs_list .tab_tab .tab_icon {
