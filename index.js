@@ -5,7 +5,7 @@ const backgroundColor = '#0e1111';
 const red = 'rgba(214, 93, 14, 0.5)';
 const green = 'rgba(152, 151, 14, 0.5)';
 const yellow = 'rgba(215, 53, 33, 0.5)';
-//const blue = 'rgba(69, 133, 136, 0.5)';
+const blue = 'rgba(69, 133, 136, 0.5)';
 const magenta = 'rgba(177, 98, 134, 0.5)';
 const cyan = 'rgba(104, 157, 106, 0.5)';
 const white = 'rgba(235, 279, 178, 0.5)';
@@ -21,7 +21,7 @@ exports.decorateConfig = (config) => {
       red: red,
       green: cyan,
       yellow: yellow,
-      blue: cyan,
+      blue: blue,
       magenta: magenta,
       cyan: cyan,
       white: white,
@@ -30,8 +30,8 @@ exports.decorateConfig = (config) => {
       lightYellow: yellow,
       lightBlue: cyan,
       lightMagenta: magenta,
-      lightCyan: cyan,
-      lightBlack: backgroundColor,
+      lightCyan: 'rgba(104, 157, 106, 0.9)',
+      lightBlack: white,
       lightWhite: white
     },
     css: `
@@ -83,3 +83,4 @@ exports.decorateConfig = (config) => {
     `
   });
 };
+
