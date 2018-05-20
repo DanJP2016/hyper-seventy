@@ -19,13 +19,9 @@ config: {
 
 ## Acknowledgments
 
----
-
 This theme is inspired by the awesome [gruvbox](https://github.com/morhetz/gruvbox) theme for vim.
 
 ## License
-
----
 
 MIT
 
