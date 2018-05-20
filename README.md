@@ -7,8 +7,6 @@ A dark theme for the hyper terminal app. Heavily inspired by the awesome gruvbox
 
 ## Install
 
----
-
 Add hyper-seventy to the plugins array in your hyper.js config file.
 
 ```javascript
