@@ -15,6 +15,12 @@ config: {
 }
 ```
 
+or enter the following command in your terminal:
+
+```sh
+hyper i hyper-seventy
+```
+
 ## Acknowledgments
 
 This theme is inspired by the awesome [gruvbox](https://github.com/morhetz/gruvbox) theme for vim.
